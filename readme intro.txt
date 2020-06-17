@@ -10,6 +10,3 @@ after that paste this  :
 
 then you will get your image after that you just have to double click on 
 any colour then you will get the result
-
-
-link : -https://data-flair.training/blogs/project-in-python-colour-detection/comment-page-1/
